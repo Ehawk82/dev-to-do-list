@@ -12,7 +12,6 @@ _______
 6. SolObserver<sup>(4)</sup>
 7. gScript2018<sup>(5)</sup>
 
-
 *NOTES*
 
 <sup>(1)</sup> - This repository will eventually be an application to the Complex Todo
