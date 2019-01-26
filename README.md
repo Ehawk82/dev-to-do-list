@@ -12,6 +12,7 @@ _______
 6. SolObserver<sup>(4)</sup>
 7. gScript2018<sup>(5)</sup>
 8. ORM<sup>(6)</sup>
+9. OlmBoi module
 
 *NOTES*
 

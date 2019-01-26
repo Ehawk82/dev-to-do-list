@@ -1,3 +1,3 @@
-var d = Date.now();
+var d = new Date();
 
 console.log(d);
